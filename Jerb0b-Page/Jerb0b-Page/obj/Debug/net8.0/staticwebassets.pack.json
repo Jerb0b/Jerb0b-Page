@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jcj19\\source\\repos\\Jerb0b-Page\\Jerb0b-Page\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Jerb0b-Page.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Jerb0b-Page.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jcj19\\source\\repos\\Jerb0b-Page\\Jerb0b-Page\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jcj19\\source\\repos\\Jerb0b-Page\\Jerb0b-Page\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jcj19\\source\\repos\\Jerb0b-Page\\Jerb0b-Page\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jcj19\\source\\repos\\Jerb0b-Page\\Jerb0b-Page\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\jcj19\\source\\repos\\Jerb0b-Page\\Jerb0b-Page\\wwwroot\\images\\image1.jpg",
+      "PackagePath": "staticwebassets\\images\\image1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Jerb0b-Page.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Jerb0b-Page.props",
+      "PackagePath": "build\\Jerb0b-Page.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Jerb0b-Page.props",
+      "PackagePath": "buildMultiTargeting\\Jerb0b-Page.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Jerb0b-Page.props",
+      "PackagePath": "buildTransitive\\Jerb0b-Page.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

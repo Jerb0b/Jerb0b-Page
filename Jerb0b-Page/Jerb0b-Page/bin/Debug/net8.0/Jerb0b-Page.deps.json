@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Jerb0b-Page/1.0.0": {
+        "runtime": {
+          "Jerb0b-Page.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jerb0b-Page/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

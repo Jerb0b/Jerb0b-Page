@@ -1,0 +1,31 @@
+﻿@page "/"
+@inject IJSRuntime JS
+
+<PageTitle>Home</PageTitle>
+<link rel="stylesheet" href="forms.css">
+
+<head class="h1">
+<h1><big><center>Junkie's Display</center></big></h1>
+</head>
+
+<h1> <center> Remember HTML? I sure don't! </center> </h1>
+
+<p class="p1">
+<div class="box"> <h3> Visit my <a HREF="https://github.com/Jerb0b"> Github</a> to view what I'm currently up to! </h3> </div>
+
+<h4> Current Projects Include: </h4>
+<h4> Learning C#/.Net while on Summer break </h4>
+    <h4> Playing <button @onclick="DownloadFromURL">
+        <a href="images/image1.jpg">Persona 3 Reload</a>
+     </button> </h4>
+<h4> Random Distractions/Side Projects </h4>
+</p>
+
+@code {
+        private async Task DownloadFromURL()
+        {
+            var fileName = "image1.jpg";
+            var fileURL = "https://localhost:7047/images/image1.jpg";
+            await JS.InvokeVoidAsync("triggerFileDownload", fileName, fileURL);
+        }
+}
